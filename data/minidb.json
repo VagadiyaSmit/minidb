@@ -1,0 +1,17 @@
+{
+  "tables": {
+    "users": {
+      "columns": [
+        {
+          "name": "id",
+          "type": "INT"
+        },
+        {
+          "name": "name",
+          "type": "TEXT"
+        }
+      ],
+      "rows": []
+    }
+  }
+}
